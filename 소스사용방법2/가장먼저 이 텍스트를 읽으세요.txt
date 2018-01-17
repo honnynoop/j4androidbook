@@ -1,0 +1,12 @@
+안드로이드 스튜디오를 작성한 소스파일의 용량이 너무 커서 
+소스만 배포합니다. 안드로이드를 실행시키려면 다음과 같이 하십시오.
+
+각 챕터에 있는 프로젝트에 MyEvents0과 같은 텍스트파일이 있습니다.
+그 이름대로 안드로이드 프로젝트를 만드세요.
+bat 디렉토리의 실행텍스트를 복사해서 콘솔창에서 실행시키십시오.
+예) 
+cd D:\j4androidbook
+d:
+D:\j4androidbook 에서 아래 소스를 콘솔에 붙여 실행시키십시오.
+java -cp j4and.jar kr.co.infopub.j4android.AndroidTrasTest3 소스위치디렉토리 타겟위치 소스위치 챕터 프로젝트이름
+java -cp j4and.jar kr.co.infopub.j4android.AndroidTrasTest3  d:\\  j4androidbook\\j4andproject  j4androidbook  chapt6.1   MyEvents0
